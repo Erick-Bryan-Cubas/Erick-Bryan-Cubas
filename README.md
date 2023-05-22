@@ -21,9 +21,11 @@
 </picture> 
 </div>
 
-<p align="center">
-  <img src="https://github.com/lira/Erick-Bryan-Cubas/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+  ![Snake animation](https://github.com/Erick-Bryan-Cubas/Erick-Bryan-Cubas/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 
