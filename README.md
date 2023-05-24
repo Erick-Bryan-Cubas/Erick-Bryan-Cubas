@@ -1,7 +1,7 @@
-## 👋 Salve, eu sou cientista da computação e aspirante a engenheiro de dados!
+## 👋 Salve, eu sou cientista da computação e aspirante a cientista de dados!
 
-- 🔭 Atualmente trabalho como analista de inteligência dos negócios
-- 🌱 Estou estudando ciência da computação com ênfase para engenharia de dados
+- 🔭 Atualmente trabalho como analista de inteligência em negócios
+- 🌱 Estou estudando ciência da computação com ênfase para ciência dos dados
 
 
 
