@@ -1,4 +1,4 @@
-## 👋 Salve, eu sou cientista da computação e aspirante a cientista de dados!
+## 👋 Salve!
 
 - 🔭 Atualmente trabalho como analista de inteligência em negócios
 - 🌱 Estou estudando ciência da computação com ênfase para ciência dos dados
@@ -28,7 +28,7 @@
 </div>
 
 
-## ⚡ Tecnologias
+## ⚡ Tecnologias e Linguagens
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Power BI" height="30" width="30" src="https://teamascend.com/wp-content/uploads/2021/03/PowerBI-Icon-Transparent.png">
