@@ -1,4 +1,4 @@
-## 👋 Salve!
+# 👋 Salve!
 
 - 🔭 Atualmente trabalho como **Administrador de Banco de Dados**
 - 🌱 Estou estudando ciência da computação com ênfase para ciência dos dados
@@ -29,9 +29,11 @@
 
 <br><br>
 
-## ⚡ Tecnologias e Linguagens
+# ⚡ Tecnologias e Linguagens
 
-### Ciência de Dados
+<br><br>
+
+## 🔬🎲 Ciência de Dados
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;"> 
     <img align="center" alt="Power BI" height="70" width="80" src="https://teamascend.com/wp-content/uploads/2021/03/PowerBI-Icon-Transparent.png"> 
     <img align="center" alt="Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
@@ -45,7 +47,9 @@
 <img src="https://img.shields.io/badge/R-Junior-8502A2" alt="Progresso R">
 </div>
 
-### Gerenciamento de banco de Dados
+<br><br>
+
+## 🏦🎲 Gerenciamento de banco de Dados
 <div style="display: inline_block">
  <img align="center" alt="MySQL" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
  <img align="center" alt="PostgresSQL" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
@@ -57,7 +61,9 @@
 <img src="https://img.shields.io/badge/Redis-Junior-0466c8" alt="Progresso Redis">
 </div>
 
-###  IOT e Manutenção de Bibliotecas Python em C++
+<br><br>
+
+## 🤖🛠️ IOT e Manutenção de Bibliotecas Python em C++
 <div style="display: inline_block">
   <img align="center" alt="C" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Cplusplus" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">  
@@ -65,11 +71,13 @@
 </div><br>
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;"> 
 <img src="https://img.shields.io/badge/C-Junior-ff002b" alt="Progresso C">
-<img src="https://img.shields.io/badge/Cplusplus-Junior-ff002b" alt="Progresso Cplusplus">
+<img src="https://img.shields.io/badge/C++-Junior-ff002b" alt="Progresso Cplusplus">
 <img src="https://img.shields.io/badge/Arduino-Junior-ff002b" alt="Progresso Arduino">
 </div>
 
-### Desenvolvimento Web
+<br><br>
+
+## 🛠️🌐 Desenvolvimento Web
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -79,7 +87,9 @@
 <img src="https://img.shields.io/badge/CSS-Junior-ff0054" alt="Progresso CSS">
 </div>
 
-### Redes de Computadores
+<br><br>
+
+## 🌐🖥️ Redes de Computadores
 <div style="display: inline_block">
  <img align="center" alt="Putty" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
  <img align="center" alt="Linux" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
@@ -91,7 +101,9 @@
 <img src="https://img.shields.io/badge/Apache-Junior-8ac926" alt="Progresso Apache">
 </div><br><br>
 
-### Futuras Explorações
+<br><br>
+
+# 👨🏽‍🚀📚 Futuras Explorações
 <div style="display: inline_block">
  <img align="center" alt="Java" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Csharp" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -108,7 +120,7 @@
 
 <br><br>
 
-## Informações de Contato
+# ☎️ Informações de Contato
 <div style="display: inline_block">
   <a href="https://www.instagram.com/erick_bryan_cubas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dataexpertinsights@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
