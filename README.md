@@ -32,13 +32,18 @@
 ## ⚡ Tecnologias e Linguagens
 
 ### Ciência de Dados
-<div style="display: inline_block">
- <img align="center" alt="Power BI" height="70" width="80" src="https://teamascend.com/wp-content/uploads/2021/03/PowerBI-Icon-Transparent.png">
- <img align="center" alt="Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Anaconda" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
- <img align="center" alt="R" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">  
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;"> 
+    <img align="center" alt="Power BI" height="70" width="80" src="https://teamascend.com/wp-content/uploads/2021/03/PowerBI-Icon-Transparent.png"> 
+    <img align="center" alt="Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+    <img align="center" alt="Anaconda" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"> 
+    <img align="center" alt="R" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">    
+</div><br>
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;"> 
+<img src="https://img.shields.io/badge/PowerBI-Pleno-006400" alt="Progresso PowerBI">
+<img src="https://img.shields.io/badge/Python-Junior-006400" alt="Progresso Python">
+<img src="https://img.shields.io/badge/Anaconda-Junior-006400" alt="Progresso Anaconda">
+<img src="https://img.shields.io/badge/R-Junior-006400" alt="Progresso R">
 </div>
- 
 
 ### Gerenciamento de banco de Dados
 <div style="display: inline_block">
@@ -79,6 +84,8 @@
  <img align="center" alt="Docker" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
  <img align="center" alt="AWS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> 
 </div>
+
+
 
 <br><br>
 
