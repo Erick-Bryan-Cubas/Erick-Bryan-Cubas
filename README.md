@@ -1,6 +1,6 @@
 ## 👋 Salve!
 
-- 🔭 Atualmente trabalho como analista de inteligência em negócios
+- 🔭 Atualmente trabalho como **Administrador de Banco de Dados**
 - 🌱 Estou estudando ciência da computação com ênfase para ciência dos dados
 
 
