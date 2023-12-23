@@ -1,6 +1,6 @@
 # 👋 Salve!
 
-- 🔭 Atualmente trabalho como **Administrador de Banco de Dados**
+- 🔭 Atualmente trabalho como **Engenheiro de Dados Júnior**
 - 🌱 Estou estudando ciência da computação com ênfase para ciência dos dados
 
 
