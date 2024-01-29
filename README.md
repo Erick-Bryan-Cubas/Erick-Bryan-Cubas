@@ -1,7 +1,7 @@
 # 👋 Salve!
 
-- 🔭 Atualmente trabalho como **Engenheiro de Dados Júnior**
-- 🌱 Estou estudando ciência da computação com ênfase para ciência dos dados
+- 🔭 Atualmente trabalho como **Desenvolvedor Back-end e Cientista de Dados**
+- 🌱 Estou estudando ciência da computação
 
 
 
