@@ -1,24 +1,20 @@
-# 👋 Hello there!
+# 🚀 Hello there!
 
-- 🔭 I'm currently working as a **Back-end Developer and Data Scientist**
+- 🔭 I'm currently working as a **Software Dev Enginner**
 - 🌱 I'm studying computer science
+  
+<br>
 
+<p align="center">
+   <a href="https://github.com/Erick-Bryan-Cubas">
+    <img src="https://github-readme-stats.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/Erick-Bryan-Cubas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Bryan-Cubas&layout=compact&theme=dark&langs_count=8" />
+  </a>
+</p>
 
-<div align="center"> 
- <picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true"
-/>
-   
-</picture> 
-</div>
+<br>
 
 <div align="center">
 
@@ -28,11 +24,11 @@
 
 <br><br>
 
-# ⚡ Technologies and Languages
+## ⚡ Technologies and Languages
 
 <br><br>
 
-## 🔬🎲 Data Science
+### 🔬🎲 Data Science
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;"> 
     <img align="center" alt="Power BI" height="70" width="80" src="https://teamascend.com/wp-content/uploads/2021/03/PowerBI-Icon-Transparent.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -53,7 +49,7 @@
 
 <br><br>
 
-## 🏦🎲 Databases and Containers
+### 🏦🎲 Databases and Containers
 <div style="display: inline_block">
  <img align="center" alt="MySQL" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="PostgresSQL" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -71,7 +67,7 @@
 
 <br><br>
 
-## 🛠️🌐 Git, Web Development, and APIs
+### 🛠️🌐 Git, Web Development, and APIs
 <div style="display: inline_block">
   <img align="center" alt="Git" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -95,7 +91,7 @@
 
 <br><br>
 
-## 🌐🖥️ Computer Networks and Cloud Computing
+### 🌐🖥️ Computer Networks and Cloud Computing
 <div style="display: inline_block">
  <img align="center" alt="Putty" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
  <img align="center" alt="Linux" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp; 
@@ -113,7 +109,7 @@
 
 <br><br>
 
-## 🤖🛠️ IoT and Maintaining Python Libraries in C++
+### 🤖🛠️ IoT and Maintaining Python Libraries in C++
 <div style="display: inline_block">
   <img align="center" alt="C" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Cplusplus" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">  
@@ -127,7 +123,7 @@
 
 <br><br>
 
-# 👨🏽‍🚀📚 Future Explorations
+### 👨🏽‍🚀📚 Future Explorations
 <div style="display: inline_block">
  <img align="center" alt="Js" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="VueJs" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"> 
@@ -138,10 +134,9 @@
 
 <br><br>
 
-# ☎️ Contact Information
-<div style="display: inline_block">
-  <a href="https://www.instagram.com/dev.erickbryan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:datasageanalytics@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/the-bryan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## ☎️ Contact Information
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/thecubas)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](datasageanalytics@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/the-bryan/)
+<br><br>
