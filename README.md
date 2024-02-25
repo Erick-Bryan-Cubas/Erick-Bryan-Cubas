@@ -7,7 +7,7 @@
 
 <p align="center">
    <a href="https://github.com/Erick-Bryan-Cubas">
-    <img src="https://github-readme-stats.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true&theme=dark&rank_icon=github"" />
   </a>
   <a href="https://github.com/Erick-Bryan-Cubas">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Bryan-Cubas&layout=compact&theme=dark&langs_count=8" />
