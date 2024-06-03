@@ -1,10 +1,8 @@
 # 🚀 Hello there!
 
-- 🔭 I'm currently working as a **Software Dev Enginner**
-- 🌱 I'm studying computer science
-  
+  - 🔭 I'm currently working as a **Software Dev Engineer**<br>
+  - 🌱 I'm studying Computer Science
 <br>
-
 <p align="center">
    <a href="https://github.com/Erick-Bryan-Cubas">
     <img src="https://github-readme-stats.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true&theme=dark&rank_icon=github"" />
@@ -30,7 +28,8 @@
 
 ### 🔬🎲 Data Science
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;"> 
-    <img align="center" alt="Power BI" height="70" width="80" src="https://teamascend.com/wp-content/uploads/2021/03/PowerBI-Icon-Transparent.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- <img align="center" alt="Power BI" height="70" width="80" src="https://teamascend.com/wp-content/uploads/2021/03/PowerBI-Icon-Transparent.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+    &nbsp;&nbsp;<img align="center" alt="Power BI" height="70" width="80" src="https://www.it.miami.edu/_assets/images/O365_Power_BI.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Go" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">&nbsp;&nbsp;&nbsp;   
     <img align="center" alt="Anaconda" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"> 
