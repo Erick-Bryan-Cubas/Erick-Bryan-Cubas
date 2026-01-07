@@ -1,16 +1,15 @@
 # 🚀 Hello there!
 
   - 🔭 I'm currently working as a **Software Dev Engineer**<br>
-  - 🌱 I'm studying Computer Science
+  - 🌱 I'm studying Data Science
 <br>
-<p align="center">
-   <a href="https://github.com/Erick-Bryan-Cubas">
-    <img src="https://github-readme-stats.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true&theme=dark&rank_icon=github"" />
-  </a>
+
+<div align="center">
   <a href="https://github.com/Erick-Bryan-Cubas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Bryan-Cubas&layout=compact&theme=dark&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Erick-Bryan-Cubas&layout=compact&langs_count=7&theme=dark"/>
   </a>
-</p>
+</div>
 
 <br>
 
