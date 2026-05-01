@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Erick-Bryan-Cubas">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Erick-Bryan-Cubas&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Bryan-Cubas&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Erick-Bryan-Cubas/Erick-Bryan-Cubas/blob/output/github-contribution-grid-snake-erick-bryan-cubas.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Erick-Bryan-Cubas/Erick-Bryan-Cubas/output/github-contribution-grid-snake-erick-bryan-cubas.svg)
   
 </div>
 
@@ -28,7 +28,7 @@
 ### 🔬🎲 Data Science
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;"> 
     <!-- <img align="center" alt="Power BI" height="70" width="80" src="https://teamascend.com/wp-content/uploads/2021/03/PowerBI-Icon-Transparent.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-    &nbsp;&nbsp;<img align="center" alt="Power BI" height="70" width="80" src="https://www.it.miami.edu/_assets/images/O365_Power_BI.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;<img align="center" alt="Power BI" height="70" width="80" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Go" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">&nbsp;&nbsp;&nbsp;   
     <img align="center" alt="Anaconda" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"> 
@@ -52,7 +52,7 @@
  <img align="center" alt="MySQL" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="PostgresSQL" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="MongoDB" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
- <img align="center" alt="Redis" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg">
+ <img align="center" alt="Redis" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg">
  <img align="center" alt="Docker" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 </div><br>
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;"> 
@@ -83,7 +83,7 @@
 <img src="https://img.shields.io/badge/Figma-★★-0466c8" alt="Progresso Figma">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Nginx-★-0466c8" alt="Progresso Nginx">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Django-★★-0466c8" alt="Progresso Django">
- <img src="https://img.shields.io/badge/Django Rest-★-0466c8" alt="Progresso Django">
+ <img src="https://img.shields.io/badge/Django%20Rest-★-0466c8" alt="Progresso Django Rest">
 <img src="https://img.shields.io/badge/Flask-★★-0466c8" alt="Progresso Flask">
 </div>
 
@@ -135,6 +135,6 @@
 ## ☎️ Contact Information
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/thecubas)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](datasageanalytics@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:datasageanalytics@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/the-bryan/)
 <br><br>
