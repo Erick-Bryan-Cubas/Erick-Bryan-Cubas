@@ -3,21 +3,43 @@
 </h1>
 
 <div align="center">
-  🔭 I'm currently working as a **Data Analyst** & **Data Engineer** <br>
-  🌱 I'm studying at **FIAP** <br><br>
+  🔭 I'm currently working as a Data Analyst & Data Engineer <br>
+  🌱 I'm studying Data Science at FIAP <br><br>
   <a href="https://datasageanalytics.cloud/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-datasageanalytics.cloud-0466c8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-datasageanalytics-0466c8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/Erick-Bryan-Cubas">
-    <img height="180em" src="https://github-readme-stats-on-erick-bryan.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-on-erick-bryan.vercel.app/api/top-langs/?username=Erick-Bryan-Cubas&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img
+      height="140"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Erick-Bryan-Cubas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=a0b4c8&ring_color=39d353"
+  />
+  <img
+      height="140"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Erick-Bryan-Cubas&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=a0b4c8&langs_count=8"
+  />
+  <img
+      height="140"
+      src="https://github-readme-streak-stats.herokuapp.com?user=Erick-Bryan-Cubas&hide_border=true&background=0d1117&ring=39d353&fire=ff6b6b&currStreakLabel=39d353&sideLabels=a0b4c8&dates=a0b4c8&sideNums=ffffff&currStreakNum=ffffff"
+  />
 </div>
+
+<br>
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="Profile Trophy"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Erick-Bryan-Cubas&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
 <br>
 
