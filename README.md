@@ -27,7 +27,7 @@
   />
 </div>
 
-<br>
+<!-- <br>
 
 <p align="center">
   <a
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<br>
+<br> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Erick-Bryan-Cubas/Erick-Bryan-Cubas/output/github-contribution-grid-snake-erick-bryan-cubas.svg" alt="Snake animation" />
